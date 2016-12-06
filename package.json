@@ -1,5 +1,5 @@
 {
-  "name": "ng2-select",
+  "name": "@intraedge/ng2-select",
   "version": "1.1.2",
   "description": "Angular2 based replacement for select boxes",
   "scripts": {
@@ -97,20 +97,8 @@
     "zone.js": "0.6.25"
   },
   "contributors": [
-    {
-      "name": "Vyacheslav Chub",
-      "email": "vyacheslav.chub@valor-software.com",
-      "url": "https://github.com/buchslava"
-    },
-    {
-      "name": "Dmitriy Shekhovtsov",
-      "email": "valorkin@gmail.com",
-      "url": "https://github.com/valorkin"
-    },
-    {
-      "name": "Oleksandr Telnov",
-      "email": "otelnov@gmail.com",
-      "url": "https://github.com/otelnov"
-    }
+    "Vyacheslav Chub <vyacheslav.chub@valor-software.com> (https://github.com/buchslava)",
+    "Dmitriy Shekhovtsov <valorkin@gmail.com> (https://github.com/valorkin)",
+    "Oleksandr Telnov <otelnov@gmail.com> (https://github.com/otelnov)"
   ]
 }
